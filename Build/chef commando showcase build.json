@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "chef commando showcase build.data.unityweb",
+"asmCodeUrl": "chef commando showcase build.asm.code.unityweb",
+"asmMemoryUrl": "chef commando showcase build.asm.memory.unityweb",
+"asmFrameworkUrl": "chef commando showcase build.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
